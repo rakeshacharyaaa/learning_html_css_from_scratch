@@ -1,16 +1,16 @@
-# Hi! Here you can see my whole learning journey from scratch
+# >>>>Hi! Here you can see my whole learning journey from scratch
 
-<p align="center">
+<p align="left">
   <!-- 🖼️ Replace the link below with your image or profile photo -->
-  <img src="https://github.com/rakeshacharyaaa.png" alt="Rakesh Acharya" width="180" style="border-radius:50%;">
+  <img src="voyceme-image (1).png" alt="Rakesh Acharya" width="180" style="border-radius:50%;">
 </p>
 
-Welcome to my coding journey!  
+--Welcome to my coding journey!  
 This repository documents everything I’m learning — from basic programming concepts to advanced development projects.
 
 ---
 
-## Goals
+## --Goals
 - Build a strong foundation in programming  
 - Learn data structures, algorithms, and problem-solving  
 - Explore web development, backend, and databases  
@@ -19,7 +19,7 @@ This repository documents everything I’m learning — from basic programming c
 
 ---
 
-## Highlights
+## --Highlights
 - Updated daily with new learnings  
 - Documented in clean Markdown  
 - Uses Git version control to track progress  
@@ -27,24 +27,24 @@ This repository documents everything I’m learning — from basic programming c
 
 ---
 
-## Tech Stack
+## --Tech Stack
 `HTML` · `CSS` · `JavaScript`
 
 ---
 
-## Progress Tracker
+## --Progress Tracker
 Check the **Commits** and **Activity Graph** to see my daily learning updates.  
 Every commit represents something new I learned! ✨
 
 ---
 
-## Contributions
+## --Contributions
 Suggestions and learning resources are always welcome!  
 If you’d like to share something useful, feel free to open an **Issue** or **Pull Request**.
 
 ---
 
-## Author
+## --Author
 **Rakesh Acharya**
 
 <p align="center">
