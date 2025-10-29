@@ -15,10 +15,10 @@ This repository documents everything I’m learning — from basic programming c
 ---
 
 ## Highlights
-- 🚧 Updated daily with new learnings
-- 🧠 Documented in clean Markdown
-- 🧰 Uses Git version control to track progress
-- 🌱 Focused on consistent learning and improvement
+- Updated daily with new learnings
+- Documented in clean Markdown
+- Uses Git version control to track progress
+- Focused on consistent learning and improvement
 
 ---
 
