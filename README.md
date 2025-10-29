@@ -1,4 +1,4 @@
-# 🚀 Learn to Code from Scratch
+# Hi! here your can see my whole learning journey from scratch
 
 Welcome to my coding journey!  
 This repository documents everything I’m learning — from basic programming concepts to advanced development projects.
