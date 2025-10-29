@@ -2,7 +2,7 @@
 
 <p align="left">
   <!-- 🖼️ Replace the link below with your image or profile photo -->
-  <img src="IMG_1381.PNG" alt="Rakesh Acharya" width="180" style="border-radius:50%;">
+  <img src="IMG_1381.PNG" alt="Rakesh Acharya" width="600" style="border-radius:50%;">
 </p>
 
 --Welcome to my coding journey!  
